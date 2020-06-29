@@ -29,9 +29,9 @@ for value in valuelist:
 	
 	# For SAXS:
 	# "I0": "\w+
-	# "I1": "\w+
-	# "diode": "\w+
-	# "Time": "\w+
+	# I1": "\w+
+	# diode": "\w+
+	# Time": "\w+
 	
 	#R values from Rosetta refine: \[ final \] R=.+/.+
 	
